@@ -17,8 +17,6 @@
 
 ## 📸 界面预览
 
-> *![alt text](image.png)*
-
 
 
 ## 🛠️ 核心技术栈
@@ -34,15 +32,12 @@
 ## 🚀 快速启动
 
 ### 1. 环境准备
-确保你本地已安装 [Node.js](https://nodejs.org/) (建议 v18+)。
+确保你本地已安装 [Node.js](https://nodejs.org/)。
 
-### 2. 获取代码
+### 2. 启动项目
+
 ```bash
 git clone git@github.com:lxxxxx-oss/Low_code_visual_design_platform.git
 cd Low_code_visual_design_platform
-
-### 3. 安装依赖
 npm install
-
-### 4. 启动项目
 npm run dev

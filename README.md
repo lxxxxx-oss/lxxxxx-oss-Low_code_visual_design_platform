@@ -17,7 +17,7 @@
 
 ## 📸 界面预览
 
-> *提示：建议在此处上传一张你的项目运行截图，能极大提升仓库的吸引力。*
+> *![alt text](image.png)*
 
 
 
@@ -40,3 +40,9 @@
 ```bash
 git clone git@github.com:lxxxxx-oss/Low_code_visual_design_platform.git
 cd Low_code_visual_design_platform
+
+### 3. 安装依赖
+npm install
+
+### 4. 启动项目
+npm run dev

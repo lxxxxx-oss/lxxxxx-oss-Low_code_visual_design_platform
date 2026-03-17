@@ -70,7 +70,7 @@ const openPreview = () => {
 <template>
   <div class="panel canvas">
     <div class="header-bar">
-      <h3>手机预览区</h3>
+      <h3>效果预览区</h3>
       <div style="display: flex; gap: 5px;">
         <button @click="emit('undo')" :disabled="!canUndo" class="history-btn">撤销</button>
         <button @click="emit('redo')" :disabled="!canRedo" class="history-btn">重做</button>

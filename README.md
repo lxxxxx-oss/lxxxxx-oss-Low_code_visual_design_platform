@@ -17,6 +17,7 @@
 
 ## 📸 界面预览
 
+<img width="2548" height="1293" alt="image" src="https://github.com/user-attachments/assets/daf46079-bb82-4738-b568-3e575cc88dbf" />
 
 
 ## 🛠️ 核心技术栈
